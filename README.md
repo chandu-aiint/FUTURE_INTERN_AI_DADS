@@ -20,7 +20,7 @@ Built an interactive *Power BI dashboard* using e-commerce sales data to:
 - Peak sales observed in June & November
 
 ## 📂 Files Included
-- E-commerce.csv
+- mobails_sales.csv
 - sales_dashboard.pbix
 - dashboard_screenshot.png
 
