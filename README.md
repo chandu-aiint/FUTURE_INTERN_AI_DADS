@@ -15,9 +15,9 @@ Built an interactive *Power BI dashboard* using e-commerce sales data to:
 - GitHub
 
 ## 📈 Key Insights
-- Product A had the highest revenue of ₹XXXX
-- Category B contributed 35% of total sales
-- Peak sales observed in June & November
+- google had the highest revenue
+- google contributed 17.89% of total sales
+- Peak sales observed in June & October
 
 ## 📂 Files Included
 - mobails_sales.csv
