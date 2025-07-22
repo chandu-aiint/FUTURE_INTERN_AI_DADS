@@ -15,8 +15,8 @@ Built an interactive *Power BI dashboard* using e-commerce sales data to:
 - GitHub
 
 ## 📈 Key Insights
-- google had the highest revenue
-- google contributed 17.89% of total sales
+- google had the highest revenue of 271M
+- google contributed 17.25% of total sales
 - Peak sales observed in June & October
 
 ## 📂 Files Included
