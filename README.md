@@ -25,4 +25,4 @@ Built an interactive *Power BI dashboard* using e-commerce sales data to:
 - dashboard_screenshot.png
 
 ## 🔗 LinkedIn Post
-[Coming soon]
+https://www.linkedin.com/posts/chandu-b-k-b152aa363_futureinterns-internship-task1-activity-7353363257002258434-zH_7?utm_source=share&utm_medium=member_android&rcm=ACoAAFpHO8EBc6mmRCETlgZcu_YUsiHlesPa_4g
